@@ -1,0 +1,21 @@
+/* Declare the main variable font (InterVariable) */
+@font-face {
+  font-family: "InterVariable";
+  font-style: normal;
+  font-weight: 100 900; /* This covers all weights from 100 to 900 */
+  font-display: swap;
+  src: url("InterVariable.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "InterVariable";
+  font-style: italic;
+  font-weight: 100 900; /* This covers all weights for italic as well */
+  font-display: swap;
+  src: url("InterVariable-Italic.woff2") format("woff2");
+}
+
+/* Use Inter as a fallback font */
+:root {
+  font-family: "InterVariable", sans-serif;
+}

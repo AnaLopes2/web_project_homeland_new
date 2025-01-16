@@ -1,0 +1,15 @@
+.nav__brand {
+  margin-top: 34px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nav__logo {
+  max-width: 254px;
+  margin: 34px auto;
+  width: 100%;
+  object-fit: contain;
+  display: flex;
+  justify-content: center;
+}
