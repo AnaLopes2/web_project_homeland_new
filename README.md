@@ -22,7 +22,7 @@ The **web_project_homeland** is a project developed as part of the Web Developme
 ## GitHub Repository and Pages Link
 
 - **Repository**: [GitHub Repository](https://github.com/AnaLopes2/web_project_homeland)
-- **Live Demo**: [GitHub Pages for web_project_homeland](https://github.com/AnaLopes2/web_project_homeland)
+- **Live Demo**: [GitHub Pages for web_project_homeland](https://analopes2.github.io/web_project_homeland_new/)
 
 ---
 
