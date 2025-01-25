@@ -27,7 +27,7 @@
     max-width: 288px;
     margin: 38px auto 0;
     grid-template-columns: repeat(1, 100%);
-    grid-template-rows: repeat(8, auto); /* 8 imagens empilhadas */
+    grid-template-rows: repeat(8, auto);
     row-gap: 12px;
     padding: 0 16px;
   }

@@ -1,5 +1,5 @@
 .footer {
-  margin: 92px auto 24px;
+  margin: 0 auto 24px;
 }
 .footer__copyrigth {
   text-align: center;
@@ -7,15 +7,9 @@
   line-height: 20px;
   line-height: 16px;
 }
-@media screen and (max-width: 768px) {
-  .footer {
-    margin-top: 88px;
-  }
-}
 
 @media screen and (max-width: 544px) {
   .footer {
-    margin-top: 64px;
     line-height: 14px;
   }
 }
